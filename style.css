@@ -1,0 +1,36 @@
+body{
+    margin: 50px;
+}
+
+img{
+    width: 500px;
+    align-items: center;
+}
+
+p{
+    display: block;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.name{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.description{
+    font-family: CopperPot,Helvetica,sans-serif;
+    font-weight: 600;
+    font-size: 1.75rem;
+}
+
+ul{
+    list-style: disc;
+}
+
+.ingrid,
+li{
+    font-size: 20px;
+    font-weight: 100;
+}
